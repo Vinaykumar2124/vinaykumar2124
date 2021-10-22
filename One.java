@@ -2,7 +2,7 @@ public static void main()
 {
 
 
-       "hello world"
+       System.out.print("hello world");
 
 
 
